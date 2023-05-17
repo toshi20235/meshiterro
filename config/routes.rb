@@ -16,3 +16,7 @@ Rails.application.routes.draw do
   
   get 'homes/about',as: 'about'
 end
+
+
+
+
